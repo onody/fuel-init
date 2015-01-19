@@ -20,6 +20,8 @@ Overview
 
 ```
 git clone --recursive git@github.com:onody/fuel-init.git YOUR_APPLICATION_NAME
+cd YOUR_APPLICATION_NAME
+php composer.phar install
 ```
 
 ## Contribution
